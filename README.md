@@ -1,0 +1,2 @@
+# Bengaluru-House-Price-Prediction
+This is a real time project on Data science and Machine Learning. In this project I have used Bengaluru house price data set from kaggle and applied Data science techniques and Machine Learning Algorithm to predict the prices of the house. The accuracy of the model didn't came as it was expected. Future modification can be done into this project in order to increase the accuracy.
